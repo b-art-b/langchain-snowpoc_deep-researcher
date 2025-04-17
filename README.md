@@ -55,4 +55,4 @@ To deploy and start using the Research Assistant, follow these steps:
 8. Deploy Streamlit Code:
    * Copy and paste the contents of `streamlit_app.py` into the application’s code section within Streamlit.
 
-> **Note**: This repo is for Medium blog post: URL
+> **Note**: This repo is for Medium blog post: https://medium.com/snowflake/research-assistant-with-langgraph-and-claude-3-5-sonnet-on-snowflake-4eb294aea81a
